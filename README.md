@@ -724,6 +724,21 @@ Publish the website in the given URL.
 ```
 
 ### OUTPUT:
+
+![Screenshot (38)](https://user-images.githubusercontent.com/118042624/214854446-0ebe17d1-79e1-4b32-900c-8d809c0112c9.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/118042624/214854494-81d1f182-ed09-47d0-866a-0f39925668a7.png)
+
+![Screenshot (40)](https://user-images.githubusercontent.com/118042624/214854522-cce9b86f-2545-48ee-8dfe-4d9d310f2b28.png)
+
+
+![Screenshot (41)](https://user-images.githubusercontent.com/118042624/214854587-2264f7da-c90e-4ff1-8d2d-5cd77d867e5c.png)
+
+
+
+
+
+
+
 ![Screenshot (33)](https://user-images.githubusercontent.com/118042624/214853360-6cc86531-1338-4a40-a503-e458bfded662.png)
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/118042624/214853431-9bdf1098-87da-4e54-927a-75f15d0b9940.png)
@@ -731,6 +746,7 @@ Publish the website in the given URL.
 ![Screenshot (36)](https://user-images.githubusercontent.com/118042624/214853468-f82e68fe-2a85-49f6-af8a-746625c15f30.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/118042624/214853486-8c4b2aa3-c65b-4c8c-8a5e-1c3ab83b0442.png)
 
+![Screenshot (42)](https://user-images.githubusercontent.com/118042624/214854624-9b21a17e-78ac-411b-a25e-908ce8de02aa.png)
 
 
 
