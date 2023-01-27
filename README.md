@@ -748,7 +748,11 @@ Publish the website in the given URL.
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/118042624/214854624-9b21a17e-78ac-411b-a25e-908ce8de02aa.png)
 
-
+## VALIDATION:
+## HTML:
+![HTML](/images/html.png)
+## css:
+![css](/images/css.png)
 
 
 ## Result:
